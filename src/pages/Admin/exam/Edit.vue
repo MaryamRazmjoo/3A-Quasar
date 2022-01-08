@@ -7,6 +7,7 @@
     :entity-id-key="entityIdKey"
     :entity-param-key="entityParamKey"
     :options="options"
+    :show-route-name="showRouteName"
   >
 
   </entity-edit>

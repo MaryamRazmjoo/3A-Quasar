@@ -44,7 +44,7 @@ export default {
       entityIdKeyInResponse: 'id',
       showRouteParamKey: 'id',
       showRouteName: 'Admin.Exam.Show',
-      indexRouteName: 'Admin.Exam.index',
+      indexRouteName: 'Admin.Exam.Index',
       inputs: [
         { type: 'input', name: 'title', responseKey: 'data.title', label: 'عنوان', col: 'col-md-6' },
         {
